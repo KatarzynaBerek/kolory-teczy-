@@ -1,1 +1,2 @@
 # kolory-teczy-
+# zapisywanie
